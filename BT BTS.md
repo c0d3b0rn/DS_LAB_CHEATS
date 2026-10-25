@@ -405,4 +405,3 @@ int main() {
 
 ---
 
-💡 *Would you like me to create a downloadable C source code package or study guide for these lab exercises in your Studio panel?*
